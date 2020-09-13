@@ -1,4 +1,4 @@
-baseurl = "https://himanshukgoyal.github.io"
+baseurl = "https://himanshukgoyal.netlify.app"
 title = "Himanshu Goyal"
 theme = "hugo-creative-portfolio-theme"
 languageCode = "en-us"
